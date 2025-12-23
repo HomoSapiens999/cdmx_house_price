@@ -10,3 +10,12 @@ La idea es explorar las herramientas y funciones de la libreria Streamlit y la g
 Se ha hehco una limpieza y analisis minimo de los datos para que los resultados visuales sean coherentes.
 
 Los datos mostrados pueden o no ser fieles a la realidad.
+
+Para correr esta aplicación directamente en la web ir al siguiente enlace:
+https://cdmx-house-price.onrender.com
+
+
+----------
+Santiago Villavicencio Acevedo
+Tripleten DataScientist
+Sprint 7
