@@ -10,7 +10,7 @@ pio.templates.default = "plotly_white"
 ### PREPROCESAMIENTO DE DATOS ###
 
 # Importamos los datos
-df = pd.read_csv(".\housing_data_CDMX_v2.csv")
+df = pd.read_csv("housing_data_CDMX_v2.csv")
 
 # Calculamos tipo de cambio MXN a USD
 tipo_cambio = (df['price_aprox_local_currency'] / df['price_aprox_usd']).mean()
